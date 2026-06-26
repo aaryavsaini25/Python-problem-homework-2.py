@@ -64,5 +64,5 @@ def champion():
     scores.append(riyascores)
     print(names)
     print(scores)
-    print(f"The winner was {winner} with a score of {maxscore}")
+    print(f"The winner was {winner} with a score of {maxscore}!")
 champion()
